@@ -8,7 +8,8 @@
 - In this kernel I have used MFCC features of audio inputs to build simple models that can classify the 1 second long audio files (in Urdu) into their respective texts.
 
 ## Feature Extraction
-- MFCC features of the audios are extracted
+MFCC features of the audios are extracted
+
 ![This is an image](https://miro.medium.com/max/1400/1*ObZV1Ay9CTH4YJPySIPpWA.png)
 
 ## Inference on Custom Input Audios
