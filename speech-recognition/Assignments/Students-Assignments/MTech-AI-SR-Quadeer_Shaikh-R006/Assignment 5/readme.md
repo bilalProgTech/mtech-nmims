@@ -16,7 +16,7 @@
 - A window is slided over the audio signal so that we convert the audio within each window into MFCC features and then predict the label to recognize the word
 - Window size is determined on the basis of sampling rate, length of the audio and average time length of each word
 
-![This is an image]('https://global-uploads.webflow.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif')
+![This is an image](https://global-uploads.webflow.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif)
 
 ## Python Libraries Required
 ```
